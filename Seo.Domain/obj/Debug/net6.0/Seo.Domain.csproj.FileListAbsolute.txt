@@ -1,0 +1,12 @@
+C:\Users\ismae\Dev\Segunda-Escola\Seo-BackEnd\Seo.Domain\bin\Debug\net6.0\Seo.Domain.deps.json
+C:\Users\ismae\Dev\Segunda-Escola\Seo-BackEnd\Seo.Domain\bin\Debug\net6.0\Seo.Domain.dll
+C:\Users\ismae\Dev\Segunda-Escola\Seo-BackEnd\Seo.Domain\bin\Debug\net6.0\Seo.Domain.pdb
+C:\Users\ismae\Dev\Segunda-Escola\Seo-BackEnd\Seo.Domain\obj\Debug\net6.0\Seo.Domain.csproj.AssemblyReference.cache
+C:\Users\ismae\Dev\Segunda-Escola\Seo-BackEnd\Seo.Domain\obj\Debug\net6.0\Seo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismae\Dev\Segunda-Escola\Seo-BackEnd\Seo.Domain\obj\Debug\net6.0\Seo.Domain.AssemblyInfoInputs.cache
+C:\Users\ismae\Dev\Segunda-Escola\Seo-BackEnd\Seo.Domain\obj\Debug\net6.0\Seo.Domain.AssemblyInfo.cs
+C:\Users\ismae\Dev\Segunda-Escola\Seo-BackEnd\Seo.Domain\obj\Debug\net6.0\Seo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ismae\Dev\Segunda-Escola\Seo-BackEnd\Seo.Domain\obj\Debug\net6.0\Seo.Domain.dll
+C:\Users\ismae\Dev\Segunda-Escola\Seo-BackEnd\Seo.Domain\obj\Debug\net6.0\refint\Seo.Domain.dll
+C:\Users\ismae\Dev\Segunda-Escola\Seo-BackEnd\Seo.Domain\obj\Debug\net6.0\Seo.Domain.pdb
+C:\Users\ismae\Dev\Segunda-Escola\Seo-BackEnd\Seo.Domain\obj\Debug\net6.0\ref\Seo.Domain.dll
