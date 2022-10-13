@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "edUGnZnCTbbDbcHniFq9BBjcZJ4iX0OlGCgF4UmBaUf1egpUsYpKaifbGypHdZUBpbWkaJWmfdeVgIYhuVOpSA==",
+  "dgSpecHash": "Od5jtSkU1NGWsWxZ0+Ua/y2uPBChnOXlT9MfurT1K8uehoaPNPoVZdaY3ZOTpu05ztwAOfRKEGMAGf30WINAKA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ismae\\Dev\\Segunda-Escola\\Seo-BackEnd\\Seo.Domain.infra\\Seo.Domain.infra.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,7 @@
     "C:\\Users\\ismae\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.10\\microsoft.entityframeworkcore.design.6.0.10.nupkg.sha512",
     "C:\\Users\\ismae\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\6.0.10\\microsoft.entityframeworkcore.inmemory.6.0.10.nupkg.sha512",
     "C:\\Users\\ismae\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.10\\microsoft.entityframeworkcore.relational.6.0.10.nupkg.sha512",
+    "C:\\Users\\ismae\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.10\\microsoft.entityframeworkcore.tools.6.0.10.nupkg.sha512",
     "C:\\Users\\ismae\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\ismae\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
     "C:\\Users\\ismae\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

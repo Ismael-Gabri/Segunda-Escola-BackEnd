@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SpF6ba+ieKub+kZYx+Lb2uqMlRa0njw8H5lyO4BVIGeI7aJYkPcJgrwAwl6JLWbky5IibX+jS0fHYKOXtgn+xA==",
+  "dgSpecHash": "him6ipJg/LGZ7O0kjtmTR4/Py/Hgrug3a6GUEGk6I6NsO6ipZdwOS/z2iO3FjcWqVhnrketG0e9JhaVhkDVDKw==",
   "success": true,
   "projectFilePath": "C:\\Users\\ismae\\Dev\\Segunda-Escola\\Seo-BackEnd\\Seo.Api\\Seo.Api.csproj",
   "expectedPackageFiles": [
@@ -10,8 +10,10 @@
     "C:\\Users\\ismae\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.10\\microsoft.entityframeworkcore.abstractions.6.0.10.nupkg.sha512",
     "C:\\Users\\ismae\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.10\\microsoft.entityframeworkcore.analyzers.6.0.10.nupkg.sha512",
     "C:\\Users\\ismae\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\6.0.10\\microsoft.entityframeworkcore.inmemory.6.0.10.nupkg.sha512",
+    "C:\\Users\\ismae\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.10\\microsoft.entityframeworkcore.relational.6.0.10.nupkg.sha512",
     "C:\\Users\\ismae\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\ismae\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
+    "C:\\Users\\ismae\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\ismae\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.1\\microsoft.extensions.dependencyinjection.6.0.1.nupkg.sha512",
     "C:\\Users\\ismae\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\ismae\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",

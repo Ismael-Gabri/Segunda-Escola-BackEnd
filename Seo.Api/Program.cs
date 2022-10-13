@@ -10,6 +10,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext<SeoContext>(opt => opt.UseInMemoryDatabase("Database"));
 builder.Services.AddRazorPages();
+
 builder.Services.AddTransient<IUserRepository, UserRepository>();
 builder.Services.AddTransient<UserHandler, UserHandler>();
 

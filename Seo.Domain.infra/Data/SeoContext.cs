@@ -5,13 +5,13 @@ namespace Seo.Domain.infra.Data
 {
     public class SeoContext : DbContext
     {
-        public DbSet<User> Users { get; set; }
-        public SeoContext(DbContextOptions<DbContext> options) : base(options)
+        public SeoContext(DbContextOptions<SeoContext> options)
         {
-            
+
         }
 
-        
+        public DbSet<User> Users { get; set; }
+
         protected override void OnModelCreating(ModelBuilder builder)
         {
             builder.Entity<User>().Property(x => x.Id);
