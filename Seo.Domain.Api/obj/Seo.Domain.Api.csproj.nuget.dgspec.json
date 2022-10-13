@@ -28,9 +28,6 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ismae\\Dev\\Segunda-Escola\\Seo-BackEnd\\Seo.Domain.infra\\Seo.Domain.infra.csproj": {
-                "projectPath": "C:\\Users\\ismae\\Dev\\Segunda-Escola\\Seo-BackEnd\\Seo.Domain.infra\\Seo.Domain.infra.csproj"
-              },
               "C:\\Users\\ismae\\Dev\\Segunda-Escola\\Seo-BackEnd\\Seo.Domain\\Seo.Domain.csproj": {
                 "projectPath": "C:\\Users\\ismae\\Dev\\Segunda-Escola\\Seo-BackEnd\\Seo.Domain\\Seo.Domain.csproj"
               }
@@ -47,13 +44,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "FluentValidator.Core": {
+            "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[1.0.1, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.2.3, )"
+              "version": "[6.0.10, )"
             }
           },
           "imports": [
@@ -71,71 +64,6 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\ismae\\Dev\\Segunda-Escola\\Seo-BackEnd\\Seo.Domain.infra\\Seo.Domain.infra.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\ismae\\Dev\\Segunda-Escola\\Seo-BackEnd\\Seo.Domain.infra\\Seo.Domain.infra.csproj",
-        "projectName": "Seo.Domain.infra",
-        "projectPath": "C:\\Users\\ismae\\Dev\\Segunda-Escola\\Seo-BackEnd\\Seo.Domain.infra\\Seo.Domain.infra.csproj",
-        "packagesPath": "C:\\Users\\ismae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ismae\\Dev\\Segunda-Escola\\Seo-BackEnd\\Seo.Domain.infra\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\ismae\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {
-              "C:\\Users\\ismae\\Dev\\Segunda-Escola\\Seo-BackEnd\\Seo.Domain\\Seo.Domain.csproj": {
-                "projectPath": "C:\\Users\\ismae\\Dev\\Segunda-Escola\\Seo-BackEnd\\Seo.Domain\\Seo.Domain.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "dependencies": {
-            "FluentValidator.Core": {
-              "target": "Package",
-              "version": "[1.0.1, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

@@ -7,13 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="FluentValidator.Core" Version="1.0.1" />
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.10" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\Seo.Domain\Seo.Domain.csproj" />
-    <ProjectReference Include="..\Seo.Domain.infra\Seo.Domain.infra.csproj" />
   </ItemGroup>
 
 </Project>

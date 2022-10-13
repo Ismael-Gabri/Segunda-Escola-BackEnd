@@ -1,0 +1,5 @@
+C:\Users\ismae\Dev\Segunda-Escola\Seo-BackEnd\Seo.Domain.infra\obj\Debug\net6.0\Seo.Domain.infra.csproj.AssemblyReference.cache
+C:\Users\ismae\Dev\Segunda-Escola\Seo-BackEnd\Seo.Domain.infra\obj\Debug\net6.0\Seo.Domain.infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismae\Dev\Segunda-Escola\Seo-BackEnd\Seo.Domain.infra\obj\Debug\net6.0\Seo.Domain.infra.AssemblyInfoInputs.cache
+C:\Users\ismae\Dev\Segunda-Escola\Seo-BackEnd\Seo.Domain.infra\obj\Debug\net6.0\Seo.Domain.infra.AssemblyInfo.cs
+C:\Users\ismae\Dev\Segunda-Escola\Seo-BackEnd\Seo.Domain.infra\obj\Debug\net6.0\Seo.Domain.infra.csproj.CoreCompileInputs.cache

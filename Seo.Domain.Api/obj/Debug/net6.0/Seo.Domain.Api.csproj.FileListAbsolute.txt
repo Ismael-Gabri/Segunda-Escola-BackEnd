@@ -1,0 +1,8 @@
+C:\Users\ismae\Dev\Segunda-Escola\Seo-BackEnd\Seo.Domain.Api\obj\Debug\net6.0\Seo.Domain.Api.csproj.AssemblyReference.cache
+C:\Users\ismae\Dev\Segunda-Escola\Seo-BackEnd\Seo.Domain.Api\obj\Debug\net6.0\Seo.Domain.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismae\Dev\Segunda-Escola\Seo-BackEnd\Seo.Domain.Api\obj\Debug\net6.0\Seo.Domain.Api.AssemblyInfoInputs.cache
+C:\Users\ismae\Dev\Segunda-Escola\Seo-BackEnd\Seo.Domain.Api\obj\Debug\net6.0\Seo.Domain.Api.AssemblyInfo.cs
+C:\Users\ismae\Dev\Segunda-Escola\Seo-BackEnd\Seo.Domain.Api\obj\Debug\net6.0\Seo.Domain.Api.csproj.CoreCompileInputs.cache
+C:\Users\ismae\Dev\Segunda-Escola\Seo-BackEnd\Seo.Domain.Api\obj\Debug\net6.0\Seo.Domain.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ismae\Dev\Segunda-Escola\Seo-BackEnd\Seo.Domain.Api\obj\Debug\net6.0\Seo.Domain.Api.RazorAssemblyInfo.cache
+C:\Users\ismae\Dev\Segunda-Escola\Seo-BackEnd\Seo.Domain.Api\obj\Debug\net6.0\Seo.Domain.Api.RazorAssemblyInfo.cs

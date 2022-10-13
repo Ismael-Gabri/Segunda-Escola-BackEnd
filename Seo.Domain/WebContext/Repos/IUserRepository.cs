@@ -10,6 +10,6 @@ namespace Seo.Domain.WebContext.Repos
     public interface IUserRepository
     {
         void Create(User user);
-        void Update(User user);
+        User GetUserInformation(Guid Id);
     }
 }
